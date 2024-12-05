@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=GraphicsProject
+comment0.text=\r\n\ Creates\ two\ panels\ with\ images\ constructed\ with\ graphics.\r\n\r\n\ @author\ \ Hwansu\ Kim\ (Billy)\r\n\ @version\ 01/14/2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ drawPartOne()
+comment3.params=
+comment3.target=void\ drawPartTwo()
+comment4.params=graphObj\ rainColor\ startX\ startY\ width\ height
+comment4.target=void\ drawRain(java.awt.Graphics,\ java.awt.Color,\ int,\ int,\ int,\ int)
+comment5.params=graphObj\ cloudColor\ xPos\ yPos\ width\ height
+comment5.target=void\ drawCloud(java.awt.Graphics,\ java.awt.Color,\ int,\ int,\ int,\ int)
+comment6.params=graphObj\ shirtColor\ xPos\ yPos\ width\ height
+comment6.target=void\ drawShirt(java.awt.Graphics,\ java.awt.Color,\ int,\ int,\ int,\ int)
+comment7.params=graphObj\ skinColor
+comment7.target=void\ drawHead(java.awt.Graphics,\ java.awt.Color)
+comment8.params=graphObj\ eyeColor\ mouthColor
+comment8.target=void\ drawFace(java.awt.Graphics,\ java.awt.Color,\ java.awt.Color)
+numComments=9
